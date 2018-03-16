@@ -5459,6 +5459,52 @@ date : 2018-03-12;
 	border-left-width: 20px !important;
 	border-right-width: 20px !important;
 }
+.bw-thin{
+	border-width: 1px !important;
+}
+.btw-thin{
+	border-top-width: 1px !important;
+}
+.brw-thin{
+	border-right-width: 1px !important;
+}
+.bbw-thin{
+	border-bottom-width: 1px !important;
+}
+.blw-thin{
+	border-left-width: 1px !important;
+}
+.btbw-thin{
+	border-top-width: 1px !important;
+	border-bottom-width: 1px !important;
+}
+.blrw-thin{
+	border-left-width: 1px !important;
+	border-right-width: 1px !important;
+}
+.bw-thick{
+	border-width: 3px !important;
+}
+.btw-thick{
+	border-top-width: 3px !important;
+}
+.brw-thick{
+	border-right-width: 3px !important;
+}
+.bbw-thick{
+	border-bottom-width: 3px !important;
+}
+.blw-thick{
+	border-left-width: 3px !important;
+}
+.btbw-thick{
+	border-top-width: 3px !important;
+	border-bottom-width: 3px !important;
+}
+.blrw-thick{
+	border-left-width: 3px !important;
+	border-right-width: 3px !important;
+}
 /* border mix */
 .b-0{
 	border: 0em !important;
